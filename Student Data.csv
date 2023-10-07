@@ -1,0 +1,11 @@
+student_id,gender,race,age,math_score,english_score,science_score,dropout
+1,Male,Asian,15,85,78,92,No
+2,Female,Caucasian,16,72,85,79,Yes
+3,Male,African American,17,68,72,65,Yes
+4,Female,Hispanic,15,90,88,94,No
+5,Male,Asian,16,78,82,80,No
+6,Female,Caucasian,17,65,70,75,Yes
+7,Male,African American,15,82,80,85,No
+8,Female,Hispanic,16,75,78,72,No
+9,Male,Asian,17,88,92,90,No
+10,Female,Caucasian,15,70,68,74,Yes
